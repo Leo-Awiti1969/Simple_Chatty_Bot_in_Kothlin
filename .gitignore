@@ -1,0 +1,22 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Declaring functions/Right equation/out/
+/Topics/Declaring functions/Right equation/out/production/classes/
+/Topics/For loop and ranges/Fizz Buzz/out/
+/Topics/For loop and ranges/Fizz Buzz/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/For loop and ranges/The sum of N numbers/out/
+/Topics/For loop and ranges/The sum of N numbers/out/production/classes/
+/Topics/For loop and ranges/Theory/build/
+/Topics/For loop and ranges/Theory/out/
+/Topics/For loop and ranges/Theory/out/production/classes/
+/Topics/Working with strings/Operations and truth/out/
+/Topics/Working with strings/Operations and truth/out/production/classes/
+/Topics/Working with strings/The number of tens/out/
+/Topics/Working with strings/The number of tens/out/production/classes/
+/Topics/Working with strings/The same line/out/
+/Topics/Working with strings/The same line/out/production/classes/
